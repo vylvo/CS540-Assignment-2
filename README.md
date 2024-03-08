@@ -1,4 +1,6 @@
 # CS540-Assignment-2
+Link: https://github.com/vylvo/CS540-Assignment-2.git
+
 This Python script implements a basic lottery scheduling algorithm, simulating a system where processes are assigned lottery tickets, and the scheduler randomly selects a ticket to determine the next process to run.
 
 Implementation Details:
